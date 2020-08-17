@@ -1,0 +1,252 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6, 7, 8 Plus – 1;
+	--web-view-id: iPhone_6_7_8_Plus__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_6_7_8_Plus__1 {
+	position: absolute;
+	width: 432px;
+	height: 732px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6, 7, 8 Plus – 1;
+	--web-view-id: iPhone_6_7_8_Plus__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Nav_bar_3 {
+	position: absolute;
+	width: 432px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Base {
+	fill: rgba(38,153,251,1);
+}
+.Base {
+	position: absolute;
+	overflow: visible;
+	width: 432px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Logo {
+	position: absolute;
+	width: 19px;
+	height: 10.149px;
+	left: 206.645px;
+	top: 30.341px;
+	overflow: visible;
+}
+#Path_197 {
+	fill: rgba(255,255,255,1);
+}
+.Path_197 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 10.149px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#User {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 396px;
+	top: 27px;
+	overflow: visible;
+}
+#Union_1 {
+	fill: rgba(255,255,255,1);
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Menu {
+	fill: rgba(255,255,255,1);
+}
+.Menu {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 14px;
+	left: 20px;
+	top: 28px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_7 {
+	fill: rgba(38,47,109,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 432px;
+	height: 560px;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_1 {
+	fill: rgba(255,96,102,1);
+}
+.Intersection_1 {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 244.3px;
+	left: 0.001px;
+	top: 417.7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Intersection_2 {
+	opacity: 0.34;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_2 {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 197.3px;
+	transform: matrix(1,0,0,1,0.0006,365.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_3 {
+	opacity: 0.18;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_3 {
+	overflow: visible;
+	position: absolute;
+	width: 437px;
+	height: 201.3px;
+	transform: matrix(1,0,0,1,-4.9994,342.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Welcome {
+	left: 43px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(255,254,254,1);
+}
+#Nice_to_see_you {
+	opacity: 0.48;
+	left: 59px;
+	top: 135px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#Need_to_Complaint {
+	left: 78px;
+	top: 245px;
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,254,254,1);
+}
+#Group_13 {
+	position: absolute;
+	width: 122px;
+	height: 45px;
+	left: 155px;
+	top: 306px;
+	overflow: visible;
+}
+#Rectangle_11 {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	height: 45px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_6__7__8_Plus___2.html;
+	cursor: pointer;
+}
+#Register {
+	left: 22px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#Copyrights_90sDeveloper {
+	left: 309px;
+	top: 707px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(38,47,109,1);
+}

@@ -1,0 +1,207 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6, 7, 8 Plus – 4;
+	--web-view-id: iPhone_6_7_8_Plus__4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus__4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_6_7_8_Plus__4 {
+	position: absolute;
+	width: 432px;
+	height: 732px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6, 7, 8 Plus – 4;
+	--web-view-id: iPhone_6_7_8_Plus__4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_7_dk {
+	fill: rgba(38,47,109,1);
+}
+.Rectangle_7_dk {
+	position: absolute;
+	overflow: visible;
+	width: 432px;
+	height: 732px;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_1_dl {
+	fill: rgba(255,96,102,1);
+}
+.Intersection_1_dl {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 244.3px;
+	left: 0.001px;
+	top: 487.7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Intersection_2_dm {
+	opacity: 0.34;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_2_dm {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 197.3px;
+	transform: matrix(1,0,0,1,0.0006,430.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_3_dn {
+	opacity: 0.18;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_3_dn {
+	overflow: visible;
+	position: absolute;
+	width: 437px;
+	height: 201.3px;
+	transform: matrix(1,0,0,1,-4.9994,407.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Copyrights_90sDeveloper_do {
+	left: 307px;
+	top: 707px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(254,254,255,1);
+}
+#Group_22 {
+	position: absolute;
+	width: 289px;
+	height: 92px;
+	left: 72px;
+	top: 331px;
+	display: none;
+	overflow: visible;
+}
+#Thank_You {
+	left: 78px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#Your_Response_got_Registered {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#We_will_solve_the_issue_asap {
+	left: 10px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#Group_31 {
+	position: absolute;
+	width: 158px;
+	height: 51px;
+	left: 125px;
+	top: 438px;
+	display: none;
+	overflow: visible;
+}
+#Group_30 {
+	position: absolute;
+	width: 158px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Need_to_register_another_respo {
+	opacity: 0.61;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Group_29 {
+	position: absolute;
+	width: 111px;
+	height: 32px;
+	left: 26px;
+	top: 19px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+#Click_here {
+	left: 16px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,254,254,1);
+}

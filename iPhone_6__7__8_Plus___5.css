@@ -1,0 +1,219 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6, 7, 8 Plus – 5;
+	--web-view-id: iPhone_6_7_8_Plus__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus__5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_6_7_8_Plus__5 {
+	position: absolute;
+	width: 432px;
+	height: 732px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6, 7, 8 Plus – 5;
+	--web-view-id: iPhone_6_7_8_Plus__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_7_d {
+	fill: rgba(38,47,109,1);
+}
+.Rectangle_7_d {
+	position: absolute;
+	overflow: visible;
+	width: 432px;
+	height: 732px;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_1_d {
+	fill: rgba(255,96,102,1);
+}
+.Intersection_1_d {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 244.3px;
+	left: 0.001px;
+	top: 487.7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Intersection_2_d {
+	opacity: 0.34;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_2_d {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 197.3px;
+	transform: matrix(1,0,0,1,0.0006,430.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_3_d {
+	opacity: 0.18;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_3_d {
+	overflow: visible;
+	position: absolute;
+	width: 437px;
+	height: 201.3px;
+	transform: matrix(1,0,0,1,-4.9994,407.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Copyrights_90sDeveloper_d {
+	left: 307px;
+	top: 707px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(254,254,255,1);
+}
+#Group_22_d {
+	position: absolute;
+	width: 289px;
+	height: 92px;
+	left: 84px;
+	top: 206px;
+	overflow: visible;
+}
+#Thank_You_d {
+	left: 78px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#Your_Response_got_Registered_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#We_will_solve_the_issue_asap_d {
+	left: 10px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
+#Group_31_ea {
+	position: absolute;
+	width: 158px;
+	height: 51px;
+	left: 132px;
+	top: 325px;
+	overflow: visible;
+}
+#Group_30_eb {
+	position: absolute;
+	width: 158px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Need_to_register_another_respo_ec {
+	opacity: 0.61;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Group_29_ed {
+	position: absolute;
+	width: 111px;
+	height: 32px;
+	left: 26px;
+	top: 19px;
+	overflow: visible;
+}
+#Rectangle_14_ee {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_14_ee {
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_6__7__8_Plus___2.html;
+	cursor: pointer;
+}
+#Click_here_ef {
+	left: 16px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,254,254,1);
+}

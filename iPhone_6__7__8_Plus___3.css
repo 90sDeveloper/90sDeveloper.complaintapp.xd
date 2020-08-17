@@ -1,0 +1,577 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6, 7, 8 Plus – 3;
+	--web-view-id: iPhone_6_7_8_Plus__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus__3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_6_7_8_Plus__3 {
+	position: absolute;
+	width: 432px;
+	height: 732px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6, 7, 8 Plus – 3;
+	--web-view-id: iPhone_6_7_8_Plus__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_7_cd {
+	fill: rgba(38,47,109,1);
+}
+.Rectangle_7_cd {
+	position: absolute;
+	overflow: visible;
+	width: 432px;
+	height: 732px;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_1_ce {
+	fill: rgba(255,96,102,1);
+}
+.Intersection_1_ce {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 244.3px;
+	left: 0.001px;
+	top: 487.7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Intersection_2_cf {
+	opacity: 0.34;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_2_cf {
+	overflow: visible;
+	position: absolute;
+	width: 432px;
+	height: 197.3px;
+	transform: matrix(1,0,0,1,0.0006,430.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_3_cg {
+	opacity: 0.18;
+	fill: rgba(255,96,102,1);
+}
+.Intersection_3_cg {
+	overflow: visible;
+	position: absolute;
+	width: 437px;
+	height: 201.3px;
+	transform: matrix(1,0,0,1,-4.9994,407.7001) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Fill_in_your_Issue {
+	left: 19px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,254,254,1);
+}
+#We_dont_share_your_details_ci {
+	opacity: 0.48;
+	left: 26px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,254,254,1);
+}
+#Copyrights_90sDeveloper_cj {
+	left: 307px;
+	top: 707px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(254,254,255,1);
+}
+#Line_1_ck {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_ck {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 140.5px;
+	top: 169.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_15 {
+	position: absolute;
+	width: 98px;
+	height: 19px;
+	left: 38px;
+	top: 151px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Department {
+	left: 12px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Group_16 {
+	position: absolute;
+	width: 98px;
+	height: 19px;
+	left: 38px;
+	top: 200px;
+	overflow: visible;
+}
+#Rectangle_13_cp {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_13_cp {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Issue_Faced {
+	left: 15px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Group_17 {
+	position: absolute;
+	width: 98px;
+	height: 19px;
+	left: 38px;
+	top: 249px;
+	overflow: visible;
+}
+#Rectangle_13_cs {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_13_cs {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Area {
+	left: 33px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Group_18 {
+	position: absolute;
+	width: 98px;
+	height: 19px;
+	left: 38px;
+	top: 300px;
+	overflow: visible;
+}
+#Rectangle_13_cv {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_13_cv {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#City {
+	left: 33px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Group_19 {
+	position: absolute;
+	width: 98px;
+	height: 19px;
+	left: 38px;
+	top: 347px;
+	overflow: visible;
+}
+#Rectangle_13_cy {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_13_cy {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#State {
+	left: 33px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 140.5px;
+	top: 219.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 140.5px;
+	top: 269.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_20 {
+	position: absolute;
+	width: 98px;
+	height: 19px;
+	left: 38px;
+	top: 396px;
+	overflow: visible;
+}
+#Rectangle_13_c {
+	fill: rgba(255,96,102,1);
+}
+.Rectangle_13_c {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Country {
+	left: 28px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 140.5px;
+	top: 319.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 140.5px;
+	top: 365.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 140.5px;
+	top: 415.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Like_Income_Tax_Water_Electric {
+	left: 146px;
+	top: 157px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Mention_the_issue_faced_by_you {
+	left: 146px;
+	top: 207px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Street_Locality {
+	left: 146px;
+	top: 257px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Chennai_Madurai {
+	left: 146px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Tamil_Nadu_Karnataka_Telugana {
+	left: 146px;
+	top: 353px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#India_Australia_USA {
+	left: 146px;
+	top: 403px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,254,254,1);
+}
+#Group_21 {
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 229px;
+	top: 451px;
+	overflow: visible;
+	transition: all 0.2s ease-out;
+	--web-animation: fadein 0.2s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_6__7__8_Plus___4.html;
+	cursor: pointer;
+}
+#Ellipse_2_df {
+	fill: rgba(255,96,102,1);
+}
+.Ellipse_2_df {
+	filter: drop-shadow(0px 5px 10px rgba(255, 96, 102, 1));
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#check_dg {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.check_dg {
+	overflow: visible;
+	position: absolute;
+	width: 15.498px;
+	height: 11.359px;
+	left: 3.537px;
+	top: 5.738px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Submit_dh {
+	left: 152px;
+	top: 449px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,254,254,1);
+}
